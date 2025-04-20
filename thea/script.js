@@ -54,5 +54,5 @@ const startButton = document.getElementById('start-button');
 // Add an event listener to the start button
 startButton.addEventListener('click', () => {
   // Redirect to another HTML page when the start button is clicked
-  window.location.href = 'thea/main.html';  // Change 'another-page.html' to your desired HTML page
+  window.location.href = 'thea/index.html';  // Change 'another-page.html' to your desired HTML page
 });
