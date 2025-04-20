@@ -15,8 +15,8 @@ const messages = [
 
 // Image URLs for each message
 const images = [
-  "Althea Isla_s Portfolio/images/soteyed.png", // Replace with your image URL
-  "Althea Isla_s Portfolio/images/soteyed.png", // You can use different images here if needed
+  "thea/images/soteyed.png", // Replace with your image URL
+  "thea/images/soteyed.png", // You can use different images here if needed
   " "
 ];
 
@@ -54,5 +54,5 @@ const startButton = document.getElementById('start-button');
 // Add an event listener to the start button
 startButton.addEventListener('click', () => {
   // Redirect to another HTML page when the start button is clicked
-  window.location.href = 'thea/index.html';  // Change 'another-page.html' to your desired HTML page
+  window.location.href = 'thea/main.html';  // Change 'another-page.html' to your desired HTML page
 });
